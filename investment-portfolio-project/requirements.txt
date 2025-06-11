@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+matplotlib
+python-dotenv
+ta
+sklearn
+alpha_vantage
+seaborn
+xgboost

@@ -8,3 +8,6 @@ sklearn
 alpha_vantage
 seaborn
 xgboost
+nltk
+cvxpy
+ecos
